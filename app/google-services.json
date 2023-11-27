@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "893132278445",
+    "firebase_url": "https://peshy-e-commerce-default-rtdb.firebaseio.com",
+    "project_id": "peshy-e-commerce",
+    "storage_bucket": "peshy-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893132278445:android:6dcc145b19f0bfabbe5424",
+        "android_client_info": {
+          "package_name": "com.example.preciousecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSgnAqVpeK9KJ29rA9X9N1cYedKU1Wp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
